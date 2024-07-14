@@ -1,1 +1,3 @@
 # Java_HousePrice_Prediction_System
+
+The Project Functionality is to predict the current price of the property based on the previous prices of the property in same area in which a customer could search for a property in city and inside that city in a particular area where multiple properties are present. In this project MySQL database is used and JDBC is used as a connection between Database and Application. In this project .csv file is included to add bulk data. Apart from this to predict the prices of property in selected area, Linear Regression Algorithms are used which are based on the old prices of that specified area. Atlast customer will get the predicted price of property which is selected according to square feet in that particular area in respective cities.
